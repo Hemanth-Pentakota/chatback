@@ -46,5 +46,5 @@ io.on("connection", (socket) => {
 
 // Start the server on port 5000
 server.listen(5000, () => {
-  console.log("[Backend] Server is running on http://localhost:5000");
+  console.log("[Backend] Server is running on https://chatback-gamma.vercel.app/");
 });
